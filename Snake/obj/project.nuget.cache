@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WV7qyxsRSRirLEBx+e4HaGA7pErXWapwjbyF3i2/Gpn2W/PfvhJiiXc4FwBwhKj9EG+dPEfEZDDdVKyGCm36dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleksandr\\source\\repos\\Snake\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
